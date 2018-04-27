@@ -18,6 +18,9 @@
     [super viewDidLoad];
     
     NSLog(@"123456");
+    
+    /** 这个是创建好仓库 然后我创建工程时将工程直接放到了clone下来的文件夹里面
+      这样我就可以使用 Source Control 来进行版本控制 **/
 }
 
 
