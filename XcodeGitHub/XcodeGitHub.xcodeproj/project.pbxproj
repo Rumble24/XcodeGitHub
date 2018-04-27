@@ -15,6 +15,7 @@
 		E3FE234F2092BC77004B90A3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E3FE234E2092BC77004B90A3 /* main.m */; };
 		E3FE23592092BC77004B90A3 /* XcodeGitHubTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E3FE23582092BC77004B90A3 /* XcodeGitHubTests.m */; };
 		E3FE23642092BC77004B90A3 /* XcodeGitHubUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E3FE23632092BC77004B90A3 /* XcodeGitHubUITests.m */; };
+		E3FE242D2092C475004B90A3 /* WJViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E3FE242C2092C475004B90A3 /* WJViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		E3FE235F2092BC77004B90A3 /* XcodeGitHubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XcodeGitHubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3FE23632092BC77004B90A3 /* XcodeGitHubUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XcodeGitHubUITests.m; sourceTree = "<group>"; };
 		E3FE23652092BC77004B90A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E3FE242B2092C475004B90A3 /* WJViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WJViewController.h; sourceTree = "<group>"; };
+		E3FE242C2092C475004B90A3 /* WJViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WJViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				E3FE23402092BC76004B90A3 /* AppDelegate.m */,
 				E3FE23422092BC76004B90A3 /* ViewController.h */,
 				E3FE23432092BC76004B90A3 /* ViewController.m */,
+				E3FE242B2092C475004B90A3 /* WJViewController.h */,
+				E3FE242C2092C475004B90A3 /* WJViewController.m */,
 				E3FE23452092BC76004B90A3 /* Main.storyboard */,
 				E3FE23482092BC77004B90A3 /* Assets.xcassets */,
 				E3FE234A2092BC77004B90A3 /* LaunchScreen.storyboard */,
@@ -263,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E3FE23442092BC76004B90A3 /* ViewController.m in Sources */,
+				E3FE242D2092C475004B90A3 /* WJViewController.m in Sources */,
 				E3FE234F2092BC77004B90A3 /* main.m in Sources */,
 				E3FE23412092BC76004B90A3 /* AppDelegate.m in Sources */,
 			);
